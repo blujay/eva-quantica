@@ -1,7 +1,7 @@
 # Eva Quantica VR
 ![Eva Quantica](https://img.itch.zone/aW1hZ2UvMTA1Njg4NS82MDQ4MjQ3LmpwZw==/original/FjEBM1.jpg)
 
-[Watch Trailer on YouTube](https://youtu.be/NK-bpwSMoKs)
+[Watch Trailer on YouTube](https://www.youtube.com/watch?v=_knvLDNGomQ)
 
 
 
@@ -13,7 +13,7 @@ Commissioned by the National Gallery, London, as part of National Gallery X and 
  
 
 ## Download for the Oculus Quest
-The VR experience is currently available to [download and try for free](https://github.com/blujay/eva-quantica/releases/download/v1.0/EvaQuantica04-May11.apk)
+The VR experience is currently available to [download and try for free](https://github.com/blujay/eva-quantica/releases/download/v2.0/Eva-quantica-may-22-02.apk)
 
 
 ### Installing via SideQuest
